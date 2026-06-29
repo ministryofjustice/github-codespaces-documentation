@@ -8,7 +8,7 @@ Guidance for requesting, setting up, and using GitHub Codespaces in the Ministry
 
 The guidance lives in [docs/](docs/):
 
-- [Overview and contents](docs/index.html.md)
+- [Overview and contents](docs/index.md)
 - [Prerequisites and access](docs/prerequisites-and-access.html.md)
 - [Getting started](docs/getting-started.html.md)
 - [Everyday tasks](docs/everyday-tasks.html.md)
