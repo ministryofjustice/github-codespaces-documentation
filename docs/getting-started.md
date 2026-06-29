@@ -12,7 +12,7 @@ This page walks through your first Codespace end to end.
 
 ## Before you begin
 
-If access is not already approved, complete [Prerequisites and Access](prerequisites-and-access.html.md) first.
+If access is not already approved, complete [Prerequisites and Access](prerequisites-and-access.md) first.
 
 ## Option A: use Codespaces in the browser
 
