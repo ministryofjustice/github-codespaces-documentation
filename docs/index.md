@@ -12,18 +12,18 @@ This guide set explains how Codespaces access works in OCTO, how to get started,
 
 ## In this pack
 
-- [Prerequisites and Access](prerequisites-and-access.html.md)
-- [Getting Started](getting-started.html.md)
-- [Everyday Tasks](everyday-tasks.html.md)
-- [Dev Containers](dev-containers.html.md)
-- [Responsible Usage](responsible-usage.html.md)
-- [Troubleshooting](troubleshooting.html.md)
+- [Prerequisites and Access](prerequisites-and-access.md)
+- [Getting Started](getting-started.md)
+- [Everyday Tasks](everyday-tasks.md)
+- [Dev Containers](dev-containers.md)
+- [Responsible Usage](responsible-usage.md)
+- [Troubleshooting](troubleshooting.md)
 
 ## Quick start
 
-1. Confirm prerequisites in [Prerequisites and Access](prerequisites-and-access.html.md).
+1. Confirm prerequisites in [Prerequisites and Access](prerequisites-and-access.md).
 2. Submit a request through the [Codespaces access issue form](https://github.com/ministryofjustice/octo-access/issues/new/choose).
-3. When access is approved, create your first Codespace using [Getting Started](getting-started.html.md).
+3. When access is approved, create your first Codespace using [Getting Started](getting-started.md).
 
 ## What Codespaces is
 
